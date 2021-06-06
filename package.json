@@ -47,7 +47,7 @@
     "get-google-fonts": "^1.2.2",
     "hammerjs": "^2.0.8",
     "karma": "^6.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
     "ngx-moment": "^3.5.0",
